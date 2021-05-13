@@ -16,6 +16,7 @@ git clone https://github.com/Arthurdshan/Matriz-Esparsa.git
 cd src
 ```
 3. **Compile o código com o Makefile**
+
 Para Windows:
 ```
 mingw32-make
